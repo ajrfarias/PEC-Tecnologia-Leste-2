@@ -6,7 +6,7 @@
 
 .cabecalho {
   background-color: #51025a; /* Define a cor de fundo */
-  color: White; / *Define a cor do texto como branco */
+  color: white; / *Define a cor do texto como branco */
   display: flex; /* Usa um layout flexível */
   justify-content: space-around; /* Distribui o espaço ao redor dos elementos filhos */
   align-items: center; /* Alinha os elementos filhos */
